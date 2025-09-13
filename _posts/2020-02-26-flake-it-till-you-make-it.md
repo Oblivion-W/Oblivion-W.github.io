@@ -2,8 +2,8 @@
 layout: post
 title: Thrust vector control engine
 subtitle: By Mark
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/4625842.jpg
+thumbnail-img: /assets/img/4625842.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Sharon Smith and Barry Simpson
