@@ -2,8 +2,8 @@
 layout: post
 title: Thrust vector control engine
 subtitle: Feachered:F35B Lightning II
-cover-img: /assets/img/mach ring.jpg
-thumbnail-img: /assets/img/mach ring.jpg
+cover-img: /assets/img/machring.jpg
+thumbnail-img: /assets/img/machring.jpg
 share-img: /assets/img/path.jpg
 tags: [engineering]
 author: Mark
